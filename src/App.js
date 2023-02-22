@@ -1,7 +1,9 @@
+import {Movies} from "./components";
+
 const App = () => {
     return (
         <div>
-            App
+            <Movies/>
         </div>
     );
 };
