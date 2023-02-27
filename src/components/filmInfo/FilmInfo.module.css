@@ -1,0 +1,30 @@
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.aboutFilm{
+    width: 500px;
+    text-align: center;
+}
+
+.filmInfo{
+    font-style: italic;
+    margin-top: 5px;
+    text-align: left;
+}
+
+.poster{
+    margin-top: 5px;
+}
+.badgesContainer{
+    margin-top: 5px;
+    position: relative;
+}
+
+
+.Badges {
+    position: absolute;
+    top: +5px;
+    right: -70px;
+}

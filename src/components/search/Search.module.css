@@ -1,0 +1,21 @@
+.moviesList {
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+}
+
+.pageButton{
+    display: flex;
+    width: 100%;
+    justify-content: center}
+
+.search{
+    display: flex;
+    justify-content: center;
+}
+
+.search input{
+    width: 900px;
+    justify-content: center;
+    margin-bottom: 5px;
+}
